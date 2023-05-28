@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="104.759" height="91.573" viewBox="0 0 104.759 91.573">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_34" data-name="Rectangle 34" width="104.759" height="91.573" transform="translate(0 0)" fill="none" stroke="#0f2849" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_25" data-name="Group 25" transform="translate(0 0)">
+    <g id="Group_24" data-name="Group 24" clip-path="url(#clip-path)">
+      <path id="Path_36" data-name="Path 36" d="M51.915,41.081c-3.786,4.425-4.768,10.21-3.784,15.834a32.516,32.516,0,0,0,1.428,5.321c.292.821.613,1.632.957,2.433.163.38,1.2,2.422,1.664,1.295.274-.664-.293-1.436-.43-2.067-.118-.543-.246-1.1-.354-1.658a4.927,4.927,0,0,1,.11-2.595c.743-2.092,2.893-3.69,4.421-5.187q.821-.8,1.627-1.624c5.589-5.7,2.941-18.472,2.191-21.589C59.025,32.443,56.983,35.158,51.915,41.081Z" fill="none" stroke="#0f2849" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.517"/>
+      <path id="Path_37" data-name="Path 37" d="M48.785,59.7s-2.764-7.541.045-12.873c0,0,1.8-5.386,5.219-8.337,0,0-8.481.531-10.941,7.858s6,14.449,6,14.449Z" fill="none" stroke="#0f2849" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.517"/>
+      <path id="Path_38" data-name="Path 38" d="M28.434,66.3c16.862,8.58,30.6-8.861,47.458-.28" fill="none" stroke="#0f2849" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.517"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="28.215" cy="28.215" r="28.215" transform="translate(23.898 24.221)" fill="none" stroke="#0f2849" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.517"/>
+      <path id="Path_39" data-name="Path 39" d="M18.954,18.1a44.344,44.344,0,0,1,62.475-5.459" fill="none" stroke="#0f2849" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.517"/>
+      <path id="Path_40" data-name="Path 40" d="M22.69,89.315A44.344,44.344,0,0,1,12.9,27.371" fill="none" stroke="#0f2849" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.517"/>
+      <path id="Path_41" data-name="Path 41" d="M2.259,29.9l10.725-3.355,3.73,11.922" fill="none" stroke="#0f2849" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.517"/>
+      <path id="Path_42" data-name="Path 42" d="M91.421,22.9a44.344,44.344,0,0,1-3.946,62.589" fill="none" stroke="#0f2849" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.517"/>
+      <path id="Path_43" data-name="Path 43" d="M98.408,85.344l-11.2.937-1.041-12.45" fill="none" stroke="#0f2849" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.517"/>
+      <path id="Path_44" data-name="Path 44" d="M81.082,2.589l1.648,11.89L71.265,15.625" fill="none" stroke="#0f2849" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.517"/>
+    </g>
+  </g>
+</svg>
